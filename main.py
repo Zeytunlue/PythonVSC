@@ -1,4 +1,4 @@
-#Student's name name
+#Student's name
 student_name = "Sam"
 #Student's grades
 math_grade = 88
